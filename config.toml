@@ -1,0 +1,12 @@
+baseURL = "http://council.csie.ntu.edu.tw/"
+languageCode = "en-us"
+title = "NTU CSIE Council"
+theme = "axiom"
+
+enableEmoji = true
+
+[menu]
+[[menu.main]]
+url = "/posts/"
+name = "Posts"
+weight = 1
